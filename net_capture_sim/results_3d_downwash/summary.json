@@ -1,0 +1,14 @@
+{
+  "command_time_s": 15.0,
+  "capture_time_s": 31.8,
+  "peak_capture_area_xy": 387.6549578637521,
+  "min_surface_distance": 0.0,
+  "mean_surface_distance_after_command": 0.9087314272313547,
+  "mean_rel_error_3d_after_command": 0.47746804548284366,
+  "mean_est_error_3d_after_command": 0.33724434819384,
+  "mean_leader_enemy_dist_after_command": 17.187863655960104,
+  "min_leader_enemy_dist": 2.7066707884230614,
+  "estimate_variance_final": 0.0005496202226762474,
+  "mean_downwash_intensity": 0.0062060583104828265,
+  "peak_downwash_intensity": 0.6538508320435479
+}

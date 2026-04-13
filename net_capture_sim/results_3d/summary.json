@@ -1,0 +1,9 @@
+{
+  "command_time_s": 15.0,
+  "capture_time_s": 15.8,
+  "peak_capture_area_xy": 661.1200724270964,
+  "peak_net_capture_volume": 3966.7199678374964,
+  "mean_rel_error_3d_after_command": 0.1190626778315915,
+  "mean_est_error_3d_after_command": 0.09591647485351926,
+  "estimate_variance_final": 0.0005505701635516356
+}
